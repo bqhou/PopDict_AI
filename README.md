@@ -3,6 +3,8 @@ PopDict AI (also called Chi-English Dictionary) is a vibrant, AI-powered languag
 <div align="center">
 <!-- <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" /> -->
    <img width="706" height="411" alt="Screenshot 2026-01-02 at 4 50 37 PM" src="https://github.com/user-attachments/assets/06bb45c2-9c03-485e-a71e-598f05f76c15" />
+   <!-- ### Run and deploy your AI Studio app
+This contains everything you need to run your app locally. View your app in AI Studio: https://ai.studio/apps/drive/1ApfZ7kEALBZ7o5PyMWgmOH3uVqKOB_zl -->
 </div>
 
 ### Core Product Features:
@@ -23,8 +25,7 @@ Natural Pronunciation: High-quality Text-to-Speech (TTS) for both the main terms
 
 Social & Collaborative: Integrated sharing via the Web Share API, allowing users to send term cards (including definitions and images) to friends or social media.
 
-### Run and deploy your AI Studio app
-This contains everything you need to run your app locally. View your app in AI Studio: https://ai.studio/apps/drive/1ApfZ7kEALBZ7o5PyMWgmOH3uVqKOB_zl
+
 
 ### Run Locally
 
